@@ -7,4 +7,10 @@ Doing some testing of github or other things...
 
  * https://github.com/bernhardreiter/testing/blob/master/markdown-gh-tests/hello.sh
 
- *  [!](https://github.com/bernhardreiter/testing/blob/master/markdown-gh-tests/hello.sh)
+ * https://github.com/bernhardreiter/testing/blob/master/markdown-gh-tests/hello.sh#L1-L3
+
+ * https://github.com/bernhardreiter/testing/blob/master/markdown-gh-tests/hello.sh#L1-L
+
+ * https://github.com/bernhardreiter/testing/blob/master/markdown-gh-tests/hello.sh#L
+
+ *  ![](https://github.com/bernhardreiter/testing/blob/master/markdown-gh-tests/hello.sh)
