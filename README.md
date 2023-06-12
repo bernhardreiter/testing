@@ -21,4 +21,7 @@ Doing some testing of github or other things...
 
  * ![](https://github.com/bernhardreiter/testing/blob/master/markdown-gh-tests/hello.sh)
 
+### additional tests
+(not yet)
+
 (eof)
